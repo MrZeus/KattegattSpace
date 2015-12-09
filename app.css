@@ -17,27 +17,25 @@ body {
 	padding:3px;
 }
 .block1,.block2{
-	border-radius:10px;
-	border:solid;
+	border:10px solid;
 	margin-top:10px;
 	margin-bottom:10px;
 }
 .block1{
-	background-color:#A23E1C;
+	background:#A23E1C;
 }
 .block2{
-	background-color:#AB5132;
+	background:#AB5132;
 }
 
 .block1 p,.block2 p{
 	color:white;
 }
 .dagens{
-	border-radius:10px;
-	border:solid;
+	border:10px solid;
 	margin-top:10px;
 	margin-bottom:50px;
-	background-color:#BB735A;
+	background:#BB735A;
 }
 
 footer {
